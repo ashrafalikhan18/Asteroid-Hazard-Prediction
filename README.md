@@ -1,4 +1,4 @@
-<div class="alert alert-block alert-info">
+# About
 Asteroids are small, rocky bodies that orbit the sun which are primarily found in the asteroid belt between Mars and Jupiter.Some asteroids are classified as near-Earth asteroids(NEO'S) if their orbits bring them close to the Earth’s orbit.
 As a data scientist at NASA I am responsible for analyzing the dataset of near Earth objects (NEOs) to improve our comprehension of these entities and strengthen our defense strategies for planets. This dataset contains details about NEOs, such as their features like absolute brightness estimated size orbital traits and other relevant parameters.With the growing number of detected asteroids, there's an increasing need to classify these objects efficiently to prioritize monitoring and potential mitigation efforts.
 
